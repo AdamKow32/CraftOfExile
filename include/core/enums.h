@@ -1,4 +1,5 @@
-#pragma once
+#ifndef ENUMS_H
+#define ENUMS_H
 
 namespace core {
 
@@ -22,3 +23,4 @@ namespace core {
     };
 
 } // namespace core
+#endif //ENUMS_H
