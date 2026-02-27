@@ -1,0 +1,58 @@
+{
+  "Sword": {
+    "prefixes": [
+      {
+        "name": "Adds Physical Damage",
+        "valueType": "range",
+        "tiers": [
+          { "tier": 4, "min": 10, "max": 20 },
+          { "tier": 5, "min": 5,  "max": 9  }
+        ]
+      },
+      {
+        "name": "% increased Physical Damage",
+        "valueType": "percent",
+        "tiers": [
+          { "tier": 5, "min": 20, "max": 40 }
+        ]
+      }
+    ],
+    "suffixes": [
+      {
+        "name": "+ to Strength",
+        "valueType": "flat",
+        "tiers": [
+          { "tier": 5, "min": 10, "max": 15 }
+        ]
+      },
+      {
+        "name": "% increased Attack Speed",
+        "valueType": "percent",
+        "tiers": [
+          { "tier": 5, "min": 5, "max": 8 }
+        ]
+      }
+    ]
+  },
+
+  "Helmet": {
+    "prefixes": [
+      {
+        "name": "+ to maximum Life",
+        "valueType": "flat",
+        "tiers": [
+          { "tier": 5, "min": 30, "max": 50 }
+        ]
+      }
+    ],
+    "suffixes": [
+      {
+        "name": "% to Fire Resistance",
+        "valueType": "percent",
+        "tiers": [
+          { "tier": 5, "min": 10, "max": 15 }
+        ]
+      }
+    ]
+  }
+}
