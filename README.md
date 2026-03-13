@@ -3,3 +3,6 @@ Personal project. Aplication created as a simple crafting system for game Path o
 
 ## Future of project
 So far I've created basic logic without much implementation on user side. Currently I am working on making the app interact with the user by allowing him to create simple items using basic orb types.
+
+## IMPORTANT
+Right now the project is on hold due to my university projecs. Once I complete those I'll come back with logic implementation.
